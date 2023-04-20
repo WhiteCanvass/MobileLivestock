@@ -1,2 +1,4 @@
 # MobileLivestock
-Mobile app to estimate livestock performances
+MobileLivestock is a revolutionary app for farmers and livestock producers who want to maximize their efficiency and profitability. With its state-of-the-art technology, this app allows you to estimate livestock performances such as live weight, carcass weight, and commercial cuts, all without the need for slaughtering the animals.
+
+Using body measurements and body condition score, MobileLivestock provides reliable estimates of your livestock's performance. Developed based on a bachelor thesis project, this app is specifically designed for the Indonesian market, taking into account the unique needs and challenges faced by local farmers. With MobileLivestock, you can easily monitor the health and growth of your livestock, track their performance over time, and make informed decisions about their feeding and care. 
